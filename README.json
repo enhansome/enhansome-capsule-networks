@@ -1,0 +1,229 @@
+{
+  "items": [
+    {
+      "description": "Please pull a request if you are aware of additional resources.\nYour feedback and contributions are always welcome!",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dynamic routing implementations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "XifengGuo/CapsNet-Keras",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-19T02:40:59Z",
+            "owner": "XifengGuo",
+            "repo": "CapsNet-Keras",
+            "stars": 2457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gusgad/capsule-GAN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-06-07T16:31:11Z",
+            "owner": "gusgad",
+            "repo": "capsule-GAN",
+            "stars": 128
+          }
+        }
+      ],
+      "title": "Keras"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gram-ai/capsule-networks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-09T05:23:09Z",
+            "owner": "gram-ai",
+            "repo": "capsule-networks",
+            "stars": 1753
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "higgsfield/Capsule-Network-Tutorial",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-10-04T16:46:07Z",
+            "owner": "higgsfield",
+            "repo": "Capsule-Network-Tutorial",
+            "stars": 765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "danielhavir/capsule-network",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-05-06T17:22:32Z",
+            "owner": "danielhavir",
+            "repo": "capsule-network",
+            "stars": 171
+          }
+        }
+      ],
+      "title": "PyTorch"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "naturomics/CapsNet-Tensorflow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-12-22T06:28:34Z",
+            "owner": "naturomics",
+            "repo": "CapsNet-Tensorflow",
+            "stars": 3786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bourdakos1/capsule-networks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-02-15T16:52:08Z",
+            "owner": "bourdakos1",
+            "repo": "capsule-networks",
+            "stars": 478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JunYeopLee/capsule-networks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-05-20T04:14:00Z",
+            "owner": "JunYeopLee",
+            "repo": "capsule-networks",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thibo73800/capsnet-traffic-sign-classifier",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-03-05T14:58:34Z",
+            "owner": "thibo73800",
+            "repo": "capsnet-traffic-sign-classifier",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jaesik817/adv_attack_capsnet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-11-09T01:39:06Z",
+            "owner": "jsikyoon",
+            "repo": "adv_attack_capsnet",
+            "stars": 173
+          }
+        }
+      ],
+      "title": "TensorFlow"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "EM routing implementations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "loretoparisi/CapsNet",
+          "description": "Loreto Parisi's list of capsule network resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-11-14T17:39:10Z",
+            "owner": "loretoparisi",
+            "repo": "CapsNet",
+            "stars": 446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Capsule Networks HW",
+          "description": "Homework assignwork in a Python Notebook format",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-03-17T13:45:05Z",
+            "owner": "utd-ai",
+            "repo": "Data_Mining_in_Action_2018_Spring",
+            "stars": 78
+          }
+        }
+      ],
+      "title": "Other resources"
+    },
+    {
+      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:00:01.699Z",
+    "original_repository": "sekwiatkowski/awesome-capsule-networks",
+    "original_repository_sha": "6b4d2dec835e3587c0efe1befc526ee8428b2c94",
+    "enhanced_repository": "enhansome/enhansome-capsule-networks",
+    "enhanced_repository_description": null,
+    "title": "Awesome Capsule Networks with stars"
+  }
+}
