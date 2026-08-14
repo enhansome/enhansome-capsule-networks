@@ -117,7 +117,7 @@ Your feedback and contributions are always welcome!
 
 ### Keras
 
-* [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras) ⭐ 2,457 | 🐛 29 | 🌐 Python | 📅 2020-05-19
+* [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras) ⭐ 2,456 | 🐛 29 | 🌐 Python | 📅 2020-05-19
 * [gusgad/capsule-GAN](https://github.com/gusgad/capsule-GAN) ⭐ 128 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-06-07
 
 ### Matlab
@@ -179,4 +179,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
