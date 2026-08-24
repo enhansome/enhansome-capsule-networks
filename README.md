@@ -64,6 +64,7 @@ Your feedback and contributions are always welcome!
 
 ### Preprints
 
+* [Automated Classification of Apoptosis in Phase Contrast Microscopy Using Capsule Network](https://ieeexplore.ieee.org/abstract/document/8720196) - Mobiny, A., Lu H., Nguyen, H.V., Roysam, B. and Varadarajan, N. (2019) [(code)](https://github.com/amobiny/Deep_Capsule_Network) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2019-04-16
 * [Capsule Network Performance on Complex Data](https://arxiv.org/pdf/1712.03480.pdf) - Xi, E., Bing, S. and Jin, Y. (2017)
 * [Accurate reconstruction of image stimuli from human fMRI based on the decoding model with capsule network architecture](https://arxiv.org/ftp/arxiv/papers/1801/1801.00602.pdf) - Qiao, K., Zhang, C., Wang, L., Yan, B., Chen, J., Zeng, L. and Tong, L. (2018)
 * [CapsuleGAN: Generative Adversarial Capsule Network](https://arxiv.org/pdf/1802.06167.pdf) - Jaiswal, A., AbdAlmageed, W. and Natarajan, P. (2018)
@@ -73,7 +74,6 @@ Your feedback and contributions are always welcome!
 * [Sparse Unsupervised Capsules Generalize Better](https://arxiv.org/abs/1804.06094) - Rawlinson, D., Ahmed, A. and Kowadlo, G. (2018)
 * [VideoCapsuleNet: A Simplified Network for Action Detection](https://arxiv.org/abs/1805.08162) - Duarte, K., Rawat, Y.S. and Shah, M. (2018)
 * [Fast CapsNet for Lung Cancer Screening](https://arxiv.org/abs/1806.07416) - Mobiny, A. and Nguyen, H.V. (2018)
-* [Automated Classification of Apoptosis in Phase Contrast Microscopy Using Capsule Network](https://ieeexplore.ieee.org/abstract/document/8720196) - Mobiny, A., Lu H., Nguyen, H.V., Roysam, B. and Varadarajan, N. (2019) [(code)](https://github.com/amobiny/Deep_Capsule_Network) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2019-04-16
 
 ## Videos
 
@@ -179,4 +179,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
