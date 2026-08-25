@@ -130,7 +130,7 @@ Your feedback and contributions are always welcome!
 
 ### PyTorch
 
-* [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks) ⭐ 1,753 | 🐛 24 | 🌐 Python | 📅 2018-11-09
+* [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks) ⭐ 1,754 | 🐛 24 | 🌐 Python | 📅 2018-11-09
 * [higgsfield/Capsule-Network-Tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial) ⭐ 765 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2019-10-04
 * [danielhavir/capsule-network](https://github.com/danielhavir/capsule-network) ⭐ 171 | 🐛 1 | 🌐 Python | 📅 2018-05-06
 

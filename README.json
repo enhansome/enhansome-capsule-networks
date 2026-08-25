@@ -214,7 +214,7 @@
                 "last_commit": "2018-11-09T05:23:09Z",
                 "owner": "gram-ai",
                 "repo": "capsule-networks",
-                "stars": 1753
+                "stars": 1754
               }
             },
             {
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:07:09.625Z",
+    "last_updated": "2026-08-25T21:44:20.008Z",
     "original_repository": "sekwiatkowski/awesome-capsule-networks",
     "original_repository_id": 120216451,
     "original_repository_sha": "6b4d2dec835e3587c0efe1befc526ee8428b2c94",
