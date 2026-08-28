@@ -18,7 +18,8 @@
                 "owner": "ssrp",
                 "repo": "Multi-level-DCNet",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T05:24:57.640Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "amobiny",
                 "repo": "Deep_Capsule_Network",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T05:24:57.640Z"
             }
           ],
           "description": null,
@@ -68,7 +70,8 @@
                 "owner": "Sarasra",
                 "repo": "models",
                 "stars": 2881
-              }
+              },
+              "first_seen": "2026-08-28T05:24:57.640Z"
             }
           ],
           "description": null,
@@ -90,7 +93,8 @@
                 "owner": "soskek",
                 "repo": "dynamic_routing_between_capsules",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T05:24:57.640Z"
             }
           ],
           "description": null,
@@ -112,7 +116,8 @@
                 "owner": "southworks",
                 "repo": "CapsNet-CNTK",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T05:24:57.640Z"
             }
           ],
           "description": null,
@@ -134,7 +139,8 @@
                 "owner": "XifengGuo",
                 "repo": "CapsNet-Keras",
                 "stars": 2456
-              }
+              },
+              "first_seen": "2026-08-28T05:24:57.640Z"
             },
             {
               "node_type": "item",
@@ -149,7 +155,8 @@
                 "owner": "gusgad",
                 "repo": "capsule-GAN",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T05:24:57.640Z"
             }
           ],
           "description": null,
@@ -171,7 +178,8 @@
                 "owner": "yechengxi",
                 "repo": "LightCapsNet",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T05:24:57.640Z"
             }
           ],
           "description": null,
@@ -193,7 +201,8 @@
                 "owner": "Soonhwan-Kwon",
                 "repo": "capsnet.mxnet",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T05:24:57.640Z"
             }
           ],
           "description": null,
@@ -215,7 +224,8 @@
                 "owner": "gram-ai",
                 "repo": "capsule-networks",
                 "stars": 1754
-              }
+              },
+              "first_seen": "2026-08-28T05:24:57.640Z"
             },
             {
               "node_type": "item",
@@ -230,7 +240,8 @@
                 "owner": "higgsfield",
                 "repo": "Capsule-Network-Tutorial",
                 "stars": 765
-              }
+              },
+              "first_seen": "2026-08-28T05:24:57.640Z"
             },
             {
               "node_type": "item",
@@ -245,7 +256,8 @@
                 "owner": "danielhavir",
                 "repo": "capsule-network",
                 "stars": 171
-              }
+              },
+              "first_seen": "2026-08-28T05:24:57.640Z"
             }
           ],
           "description": null,
@@ -267,7 +279,8 @@
                 "owner": "dfalbel",
                 "repo": "capsnet",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T05:24:57.640Z"
             }
           ],
           "description": null,
@@ -289,7 +302,8 @@
                 "owner": "naturomics",
                 "repo": "CapsNet-Tensorflow",
                 "stars": 3786
-              }
+              },
+              "first_seen": "2026-08-28T05:24:57.640Z"
             },
             {
               "node_type": "item",
@@ -304,7 +318,8 @@
                 "owner": "bourdakos1",
                 "repo": "capsule-networks",
                 "stars": 478
-              }
+              },
+              "first_seen": "2026-08-28T05:24:57.640Z"
             },
             {
               "node_type": "item",
@@ -319,7 +334,8 @@
                 "owner": "JunYeopLee",
                 "repo": "capsule-networks",
                 "stars": 197
-              }
+              },
+              "first_seen": "2026-08-28T05:24:57.640Z"
             },
             {
               "node_type": "item",
@@ -334,7 +350,8 @@
                 "owner": "thibo73800",
                 "repo": "capsnet-traffic-sign-classifier",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-28T05:24:57.640Z"
             },
             {
               "node_type": "item",
@@ -349,7 +366,8 @@
                 "owner": "jsikyoon",
                 "repo": "adv_attack_capsnet",
                 "stars": 173
-              }
+              },
+              "first_seen": "2026-08-28T05:24:57.640Z"
             }
           ],
           "description": null,
@@ -371,7 +389,8 @@
                 "owner": "mrkulk",
                 "repo": "Unsupervised-Capsule-Network",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-28T05:24:57.640Z"
             }
           ],
           "description": null,
@@ -397,7 +416,8 @@
             "owner": "loretoparisi",
             "repo": "CapsNet",
             "stars": 446
-          }
+          },
+          "first_seen": "2026-08-28T05:24:57.640Z"
         },
         {
           "node_type": "item",
@@ -412,14 +432,15 @@
             "owner": "utd-ai",
             "repo": "Data_Mining_in_Action_2018_Spring",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T05:24:57.640Z"
         }
       ],
       "title": "Other resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:30:00.487Z",
+    "last_updated": "2026-08-28T05:24:57.640Z",
     "original_repository_info": {
       "archived": false,
       "id": 120216451,
