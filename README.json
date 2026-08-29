@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-level Dense Capsule Networks, in ACCV 2018",
+                "homepage": null,
                 "id": 155221428,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2020-01-08T14:39:14Z",
+                "open_issues": 4,
                 "owner": "ssrp",
                 "repo": "Multi-level-DCNet",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
             }
@@ -35,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Deep Capsule Network using Convolutional Dynamic Routing",
+                "homepage": null,
                 "id": 181248251,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-04-16T18:38:17Z",
+                "open_issues": 0,
                 "owner": "amobiny",
                 "repo": "Deep_Capsule_Network",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
             }
@@ -64,12 +74,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Models and examples built with TensorFlow",
+                "homepage": null,
                 "id": 119108028,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-12-14T15:42:44Z",
+                "open_issues": 1,
                 "owner": "Sarasra",
                 "repo": "models",
-                "stars": 2881
+                "stars": 2881,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
             }
@@ -87,12 +102,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Dynamic Routing Between Capsules, Sara Sabour, Nicholas Frosst, Geoffrey E Hinton, NIPS 2017",
+                "homepage": null,
                 "id": 108849226,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-12-08T02:33:29Z",
+                "open_issues": 1,
                 "owner": "soskek",
                 "repo": "dynamic_routing_between_capsules",
-                "stars": 206
+                "stars": 206,
+                "topics": [
+                  "capsnet",
+                  "capsule",
+                  "chainer",
+                  "cnn",
+                  "dynamic-routing",
+                  "hinton",
+                  "nips-2017"
+                ]
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
             }
@@ -110,12 +138,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CNTK implementation of CapsNet based on Geoffrey Hinton's paper Dynamic Routing Between Capsules",
+                "homepage": null,
                 "id": 118631334,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-03-15T10:10:13Z",
+                "open_issues": 2,
                 "owner": "southworks",
                 "repo": "CapsNet-CNTK",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "capsnet",
+                  "capsule",
+                  "cntk",
+                  "deep-learning",
+                  "mnist"
+                ]
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
             }
@@ -133,12 +172,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Keras implementation of CapsNet in NIPS2017 paper \"Dynamic Routing Between Capsules\". Now test error ＝ 0.34%. ",
+                "homepage": null,
                 "id": 108827874,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-05-19T02:40:59Z",
+                "open_issues": 29,
                 "owner": "XifengGuo",
                 "repo": "CapsNet-Keras",
-                "stars": 2456
+                "stars": 2456,
+                "topics": [
+                  "capsnet",
+                  "capsnet-keras",
+                  "capsule",
+                  "capsule-network",
+                  "dynamic-routing",
+                  "keras"
+                ]
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
             },
@@ -149,12 +200,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for my Master thesis on \"Capsule Architecture as a Discriminator in Generative Adversarial Networks\".",
+                "homepage": "https://drive.google.com/file/d/15g9VFyGwjPnGcTzjXEDwvGpfNvPuRXqB/view?usp=sharing",
                 "id": 116372054,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-06-07T16:31:11Z",
+                "open_issues": 3,
                 "owner": "gusgad",
                 "repo": "capsule-GAN",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "capsnet",
+                  "capsule-network",
+                  "gan",
+                  "generative-adversarial-network",
+                  "keras",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
             }
@@ -172,12 +235,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Matlab implementation of the capsule networks (or capsnet).",
+                "homepage": null,
                 "id": 110437620,
                 "language": "Matlab",
+                "license": "GPL-3.0",
                 "last_commit": "2017-11-13T04:39:47Z",
+                "open_issues": 3,
                 "owner": "yechengxi",
                 "repo": "LightCapsNet",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "capsule-network",
+                  "matlab"
+                ]
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
             }
@@ -195,12 +266,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MXNet implementation of CapsNet",
+                "homepage": null,
                 "id": 110336414,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-11-29T08:23:48Z",
+                "open_issues": 3,
                 "owner": "Soonhwan-Kwon",
                 "repo": "capsnet.mxnet",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "capsnet",
+                  "capsule",
+                  "capsulenet-mxnet",
+                  "dynamic-routing",
+                  "dynamic-routing-between-capsules",
+                  "hinton",
+                  "mxnet"
+                ]
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
             }
@@ -218,12 +302,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch implementation of the NIPS 2017 paper \"Dynamic Routing Between Capsules\".",
+                "homepage": "https://arxiv.org/abs/1710.09829",
                 "id": 109277943,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-11-09T05:23:09Z",
+                "open_issues": 24,
                 "owner": "gram-ai",
                 "repo": "capsule-networks",
-                "stars": 1754
+                "stars": 1754,
+                "topics": [
+                  "capsule-networks",
+                  "machine-learning",
+                  "mnist",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
             },
@@ -234,12 +328,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch easy-to-follow Capsule Network tutorial",
+                "homepage": null,
                 "id": 115489214,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2019-10-04T16:46:07Z",
+                "open_issues": 14,
                 "owner": "higgsfield",
                 "repo": "Capsule-Network-Tutorial",
-                "stars": 765
+                "stars": 765,
+                "topics": [
+                  "capsule-network",
+                  "clean-code",
+                  "easy-to-use",
+                  "pytorch",
+                  "pytorch-tutorials"
+                ]
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
             },
@@ -250,12 +355,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of the paper Dynamic Routing Between Capsules by Sara Sabour, Nicholas Frosst and Geoffrey Hinton",
+                "homepage": null,
                 "id": 123637070,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-05-06T17:22:32Z",
+                "open_issues": 1,
                 "owner": "danielhavir",
                 "repo": "capsule-network",
-                "stars": 171
+                "stars": 171,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
             }
@@ -273,12 +383,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CapsNet implementation in keras for R",
+                "homepage": null,
                 "id": 111147260,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2018-05-08T13:19:18Z",
+                "open_issues": 2,
                 "owner": "dfalbel",
                 "repo": "capsnet",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
             }
@@ -296,12 +411,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Tensorflow implementation of CapsNet(Capsules Net) in paper Dynamic Routing Between Capsules",
+                "homepage": null,
                 "id": 108619300,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-12-22T06:28:34Z",
+                "open_issues": 29,
                 "owner": "naturomics",
                 "repo": "CapsNet-Tensorflow",
-                "stars": 3786
+                "stars": 3786,
+                "topics": [
+                  "capsnet",
+                  "capsule",
+                  "capsule-network",
+                  "dynamic-routing",
+                  "routing-algorithm",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
             },
@@ -312,12 +439,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Tensorflow implementation of Capsule Networks",
+                "homepage": null,
                 "id": 110180201,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-02-15T16:52:08Z",
+                "open_issues": 8,
                 "owner": "bourdakos1",
                 "repo": "capsule-networks",
-                "stars": 478
+                "stars": 478,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
             },
@@ -328,12 +460,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Tensorflow(v1.4) implementation of Capsule Networks (Dynamic Routing Between Capsules , https://arxiv.org/abs/1710.09829)",
+                "homepage": null,
                 "id": 116636323,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-05-20T04:14:00Z",
+                "open_issues": 0,
                 "owner": "JunYeopLee",
                 "repo": "capsule-networks",
-                "stars": 197
+                "stars": 197,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
             },
@@ -344,12 +481,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Tensorflow implementation of CapsNet(Capsules Net) apply on german traffic sign dataset",
+                "homepage": null,
                 "id": 109731909,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2018-03-05T14:58:34Z",
+                "open_issues": 12,
                 "owner": "thibo73800",
                 "repo": "capsnet-traffic-sign-classifier",
-                "stars": 178
+                "stars": 178,
+                "topics": [
+                  "capsnet",
+                  "capsule-network",
+                  "capsules-net",
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "neural-network",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
             },
@@ -360,12 +510,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tensorflow Implementation of Adversarial Attack to Capsule Networks",
+                "homepage": null,
                 "id": 109409681,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-11-09T01:39:06Z",
+                "open_issues": 1,
                 "owner": "jsikyoon",
                 "repo": "adv_attack_capsnet",
-                "stars": 173
+                "stars": 173,
+                "topics": [
+                  "adversarial-example",
+                  "capsule-network",
+                  "fgsm",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
             }
@@ -383,12 +543,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Capsule network with variations. Originally proposed by Tieleman & Hinton : http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf",
+                "homepage": null,
                 "id": 44927967,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2017-11-01T16:44:26Z",
+                "open_issues": 2,
                 "owner": "mrkulk",
                 "repo": "Unsupervised-Capsule-Network",
-                "stars": 168
+                "stars": 168,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
             }
@@ -410,12 +575,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CapsNet (Capsules Net) in Geoffrey E Hinton paper \"Dynamic Routing Between Capsules\" - State Of the Art",
+            "homepage": null,
             "id": 110006043,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-11-14T17:39:10Z",
+            "open_issues": 0,
             "owner": "loretoparisi",
             "repo": "CapsNet",
-            "stars": 446
+            "stars": 446,
+            "topics": [
+              "capsnet",
+              "capsule-networks",
+              "chainer",
+              "deeplearning",
+              "keras",
+              "lasagne",
+              "machine-learning",
+              "mnist",
+              "mxnet",
+              "pytorch",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T05:24:57.640Z"
         },
@@ -426,12 +608,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 121108843,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-03-17T13:45:05Z",
+            "open_issues": 1,
             "owner": "utd-ai",
             "repo": "Data_Mining_in_Action_2018_Spring",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:24:57.640Z"
         }
@@ -440,15 +627,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:11:08.991Z",
+    "last_updated": "2026-08-29T04:36:33.346Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome resources related to capsule networks",
+      "homepage": null,
       "id": 120216451,
       "language": null,
+      "license": null,
       "last_commit": "2020-02-24T17:12:38Z",
+      "open_issues": 7,
       "owner": "sekwiatkowski",
       "repo": "awesome-capsule-networks",
-      "stars": 976
+      "stars": 976,
+      "topics": [
+        "awesome-list",
+        "capsule-network",
+        "capsule-networks",
+        "computer-vision",
+        "deep-learning",
+        "neural-networks"
+      ]
     },
     "original_repository_sha": "6b4d2dec835e3587c0efe1befc526ee8428b2c94",
     "enhanced_repository": "enhansome/enhansome-capsule-networks",
