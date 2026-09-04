@@ -105,7 +105,7 @@ Your feedback and contributions are always welcome!
 
 ### Official implementation
 
-* [Sarasra/models](https://github.com/Sarasra/models) ⭐ 2,881 | 🐛 1 | 🌐 Python | 📅 2019-12-14 - The official models used in [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
+* [Sarasra/models](https://github.com/Sarasra/models) ⭐ 2,880 | 🐛 1 | 🌐 Python | 📅 2019-12-14 - The official models used in [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 
 ### Chainer
 
@@ -179,4 +179,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

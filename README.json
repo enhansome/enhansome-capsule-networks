@@ -83,7 +83,7 @@
                 "open_issues": 1,
                 "owner": "Sarasra",
                 "repo": "models",
-                "stars": 2881,
+                "stars": 2880,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
@@ -627,7 +627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T23:17:09.172Z",
+    "last_updated": "2026-09-04T23:03:14.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to capsule networks",
