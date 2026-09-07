@@ -627,7 +627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T22:53:54.484Z",
+    "last_updated": "2026-09-07T23:30:15.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to capsule networks",
@@ -639,7 +639,7 @@
       "open_issues": 7,
       "owner": "sekwiatkowski",
       "repo": "awesome-capsule-networks",
-      "stars": 976,
+      "stars": 975,
       "topics": [
         "awesome-list",
         "capsule-network",

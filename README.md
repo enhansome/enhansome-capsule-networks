@@ -6,7 +6,7 @@ A curated list of awesome resources related to capsule networks maintained by [A
 
 ## Contributing
 
-Please [pull a request](https://github.com/aisummary/awesome-capsule-networks/pulls) ⭐ 976 | 🐛 7 | 📅 2020-02-24 if you are aware of additional resources.
+Please [pull a request](https://github.com/aisummary/awesome-capsule-networks/pulls) ⭐ 975 | 🐛 7 | 📅 2020-02-24 if you are aware of additional resources.
 
 Your feedback and contributions are always welcome!
 
@@ -179,4 +179,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
