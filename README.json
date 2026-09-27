@@ -584,7 +584,7 @@
             "open_issues": 0,
             "owner": "loretoparisi",
             "repo": "CapsNet",
-            "stars": 446,
+            "stars": 447,
             "topics": [
               "capsnet",
               "capsule-networks",
@@ -627,7 +627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T23:37:58.170Z",
+    "last_updated": "2026-09-27T23:48:22.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to capsule networks",

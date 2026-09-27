@@ -165,7 +165,7 @@ Your feedback and contributions are always welcome!
 
 ## Other resources
 
-* [loretoparisi/CapsNet](https://github.com/loretoparisi/CapsNet) ⭐ 446 | 🐛 0 | 📅 2021-11-14 - Loreto Parisi's list of capsule network resources
+* [loretoparisi/CapsNet](https://github.com/loretoparisi/CapsNet) ⭐ 447 | 🐛 0 | 📅 2021-11-14 - Loreto Parisi's list of capsule network resources
 * [Capsule Networks HW](https://github.com/vkantor/Data_Mining_in_Action_2018_Spring/blob/master/trends/data_2/CapsuleNetwork_HW.ipynb) ⭐ 78 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-03-17 - Homework assignwork in a Python Notebook format
 * [Capsule Networks discussion](https://www.facebook.com/groups/1830303997268623) - A Facebook discussion group
 * [Will capsule networks replace neural networks?](https://www.quora.com/Will-capsule-networks-replace-neural-networks) - A question discussed on Quora
@@ -179,4 +179,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
