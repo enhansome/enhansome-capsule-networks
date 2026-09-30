@@ -117,7 +117,7 @@ Your feedback and contributions are always welcome!
 
 ### Keras
 
-* [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras) ⭐ 2,454 | 🐛 29 | 🌐 Python | 📅 2020-05-19
+* [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras) ⭐ 2,455 | 🐛 29 | 🌐 Python | 📅 2020-05-19
 * [gusgad/capsule-GAN](https://github.com/gusgad/capsule-GAN) ⭐ 127 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-06-07
 
 ### Matlab
@@ -130,7 +130,7 @@ Your feedback and contributions are always welcome!
 
 ### PyTorch
 
-* [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks) ⭐ 1,754 | 🐛 24 | 🌐 Python | 📅 2018-11-09
+* [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks) ⭐ 1,755 | 🐛 24 | 🌐 Python | 📅 2018-11-09
 * [higgsfield/Capsule-Network-Tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial) ⭐ 765 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2019-10-04
 * [danielhavir/capsule-network](https://github.com/danielhavir/capsule-network) ⭐ 171 | 🐛 1 | 🌐 Python | 📅 2018-05-06
 
@@ -140,7 +140,7 @@ Your feedback and contributions are always welcome!
 
 ### TensorFlow
 
-* [naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow) ⭐ 3,786 | 🐛 29 | 🌐 Python | 📅 2018-12-22
+* [naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow) ⭐ 3,787 | 🐛 29 | 🌐 Python | 📅 2018-12-22
 * [bourdakos1/capsule-networks](https://github.com/bourdakos1/capsule-networks) ⭐ 478 | 🐛 8 | 🌐 Python | 📅 2018-02-15
 * [JunYeopLee/capsule-networks](https://github.com/JunYeopLee/capsule-networks) ⭐ 197 | 🐛 0 | 🌐 Python | 📅 2018-05-20
 * [thibo73800/capsnet-traffic-sign-classifier](https://github.com/thibo73800/capsnet-traffic-sign-classifier) ⭐ 178 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2018-03-05
@@ -179,4 +179,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
