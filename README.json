@@ -83,7 +83,7 @@
                 "open_issues": 1,
                 "owner": "Sarasra",
                 "repo": "models",
-                "stars": 2880,
+                "stars": 2881,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
@@ -311,7 +311,7 @@
                 "open_issues": 24,
                 "owner": "gram-ai",
                 "repo": "capsule-networks",
-                "stars": 1755,
+                "stars": 1756,
                 "topics": [
                   "capsule-networks",
                   "machine-learning",
@@ -627,7 +627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T00:33:22.391Z",
+    "last_updated": "2026-10-02T00:47:52.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to capsule networks",

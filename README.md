@@ -105,7 +105,7 @@ Your feedback and contributions are always welcome!
 
 ### Official implementation
 
-* [Sarasra/models](https://github.com/Sarasra/models) ⭐ 2,880 | 🐛 1 | 🌐 Python | 📅 2019-12-14 - The official models used in [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
+* [Sarasra/models](https://github.com/Sarasra/models) ⭐ 2,881 | 🐛 1 | 🌐 Python | 📅 2019-12-14 - The official models used in [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 
 ### Chainer
 
@@ -130,7 +130,7 @@ Your feedback and contributions are always welcome!
 
 ### PyTorch
 
-* [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks) ⭐ 1,755 | 🐛 24 | 🌐 Python | 📅 2018-11-09
+* [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks) ⭐ 1,756 | 🐛 24 | 🌐 Python | 📅 2018-11-09
 * [higgsfield/Capsule-Network-Tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial) ⭐ 765 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2019-10-04
 * [danielhavir/capsule-network](https://github.com/danielhavir/capsule-network) ⭐ 171 | 🐛 1 | 🌐 Python | 📅 2018-05-06
 
@@ -179,4 +179,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
