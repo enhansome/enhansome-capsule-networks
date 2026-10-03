@@ -98,7 +98,7 @@
             {
               "node_type": "item",
               "title": "soskek/dynamic_routing_between_capsules",
-              "description": null,
+              "description": "soskek/dynamic_routing_between_capsules",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -134,7 +134,7 @@
             {
               "node_type": "item",
               "title": "Southworkscom/CapsNet-CNTK",
-              "description": null,
+              "description": "southworks/CapsNet-CNTK",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -168,7 +168,7 @@
             {
               "node_type": "item",
               "title": "XifengGuo/CapsNet-Keras",
-              "description": null,
+              "description": "XifengGuo/CapsNet-Keras",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -196,7 +196,7 @@
             {
               "node_type": "item",
               "title": "gusgad/capsule-GAN",
-              "description": null,
+              "description": "gusgad/capsule-GAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -231,7 +231,7 @@
             {
               "node_type": "item",
               "title": "yechengxi/LightCapsNet",
-              "description": null,
+              "description": "yechengxi/LightCapsNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -262,7 +262,7 @@
             {
               "node_type": "item",
               "title": "Soonhwan-Kwon/capsnet.mxnet",
-              "description": null,
+              "description": "Soonhwan-Kwon/capsnet.mxnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -298,7 +298,7 @@
             {
               "node_type": "item",
               "title": "gram-ai/capsule-networks",
-              "description": null,
+              "description": "gram-ai/capsule-networks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -324,7 +324,7 @@
             {
               "node_type": "item",
               "title": "higgsfield/Capsule-Network-Tutorial",
-              "description": null,
+              "description": "higgsfield/Capsule-Network-Tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -351,7 +351,7 @@
             {
               "node_type": "item",
               "title": "danielhavir/capsule-network",
-              "description": null,
+              "description": "danielhavir/capsule-network",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -379,7 +379,7 @@
             {
               "node_type": "item",
               "title": "dfalbel/capsnet",
-              "description": null,
+              "description": "dfalbel/capsnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -407,7 +407,7 @@
             {
               "node_type": "item",
               "title": "naturomics/CapsNet-Tensorflow",
-              "description": null,
+              "description": "naturomics/CapsNet-Tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -435,7 +435,7 @@
             {
               "node_type": "item",
               "title": "bourdakos1/capsule-networks",
-              "description": null,
+              "description": "bourdakos1/capsule-networks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -456,7 +456,7 @@
             {
               "node_type": "item",
               "title": "JunYeopLee/capsule-networks",
-              "description": null,
+              "description": "JunYeopLee/capsule-networks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -477,7 +477,7 @@
             {
               "node_type": "item",
               "title": "thibo73800/capsnet-traffic-sign-classifier",
-              "description": null,
+              "description": "thibo73800/capsnet-traffic-sign-classifier",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -506,7 +506,7 @@
             {
               "node_type": "item",
               "title": "jaesik817/adv_attack_capsnet",
-              "description": null,
+              "description": "jsikyoon/adv_attack_capsnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -539,7 +539,7 @@
             {
               "node_type": "item",
               "title": "mrkulk/Unsupervised-Capsule-Network",
-              "description": null,
+              "description": "mrkulk/Unsupervised-Capsule-Network",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -627,7 +627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:30:43.632Z",
+    "last_updated": "2026-10-03T04:45:52.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to capsule networks",
