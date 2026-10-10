@@ -311,7 +311,7 @@
                 "open_issues": 24,
                 "owner": "gram-ai",
                 "repo": "capsule-networks",
-                "stars": 1756,
+                "stars": 1757,
                 "topics": [
                   "capsule-networks",
                   "machine-learning",
@@ -627,7 +627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T01:13:43.246Z",
+    "last_updated": "2026-10-10T00:51:47.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to capsule networks",
