@@ -140,7 +140,7 @@ Your feedback and contributions are always welcome!
 
 ### TensorFlow
 
-* [naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow) ⭐ 3,788 | 🐛 29 | 🌐 Python | 📅 2018-12-22
+* [naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow) ⭐ 3,789 | 🐛 29 | 🌐 Python | 📅 2018-12-22
 * [bourdakos1/capsule-networks](https://github.com/bourdakos1/capsule-networks) ⭐ 478 | 🐛 8 | 🌐 Python | 📅 2018-02-15
 * [JunYeopLee/capsule-networks](https://github.com/JunYeopLee/capsule-networks) ⭐ 197 | 🐛 0 | 🌐 Python | 📅 2018-05-20
 * [thibo73800/capsnet-traffic-sign-classifier](https://github.com/thibo73800/capsnet-traffic-sign-classifier) ⭐ 178 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2018-03-05

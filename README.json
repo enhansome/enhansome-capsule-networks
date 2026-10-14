@@ -420,7 +420,7 @@
                 "open_issues": 29,
                 "owner": "naturomics",
                 "repo": "CapsNet-Tensorflow",
-                "stars": 3788,
+                "stars": 3789,
                 "topics": [
                   "capsnet",
                   "capsule",
@@ -627,7 +627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T00:18:28.381Z",
+    "last_updated": "2026-10-14T23:55:11.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to capsule networks",
