@@ -105,7 +105,7 @@ Your feedback and contributions are always welcome!
 
 ### Official implementation
 
-* [Sarasra/models](https://github.com/Sarasra/models) ⭐ 2,881 | 🐛 1 | 🌐 Python | 📅 2019-12-14 - The official models used in [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
+* [Sarasra/models](https://github.com/Sarasra/models) ⭐ 2,882 | 🐛 1 | 🌐 Python | 📅 2019-12-14 - The official models used in [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 
 ### Chainer
 
@@ -140,7 +140,7 @@ Your feedback and contributions are always welcome!
 
 ### TensorFlow
 
-* [naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow) ⭐ 3,787 | 🐛 29 | 🌐 Python | 📅 2018-12-22
+* [naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow) ⭐ 3,788 | 🐛 29 | 🌐 Python | 📅 2018-12-22
 * [bourdakos1/capsule-networks](https://github.com/bourdakos1/capsule-networks) ⭐ 478 | 🐛 8 | 🌐 Python | 📅 2018-02-15
 * [JunYeopLee/capsule-networks](https://github.com/JunYeopLee/capsule-networks) ⭐ 197 | 🐛 0 | 🌐 Python | 📅 2018-05-20
 * [thibo73800/capsnet-traffic-sign-classifier](https://github.com/thibo73800/capsnet-traffic-sign-classifier) ⭐ 178 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2018-03-05
@@ -179,4 +179,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
