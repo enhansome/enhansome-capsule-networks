@@ -117,7 +117,7 @@ Your feedback and contributions are always welcome!
 
 ### Keras
 
-* [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras) ⭐ 2,456 | 🐛 29 | 🌐 Python | 📅 2020-05-19
+* [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras) ⭐ 2,457 | 🐛 29 | 🌐 Python | 📅 2020-05-19
 * [gusgad/capsule-GAN](https://github.com/gusgad/capsule-GAN) ⭐ 127 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-06-07
 
 ### Matlab

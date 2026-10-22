@@ -181,7 +181,7 @@
                 "open_issues": 29,
                 "owner": "XifengGuo",
                 "repo": "CapsNet-Keras",
-                "stars": 2456,
+                "stars": 2457,
                 "topics": [
                   "capsnet",
                   "capsnet-keras",
@@ -627,7 +627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T00:00:25.776Z",
+    "last_updated": "2026-10-22T23:59:19.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to capsule networks",
