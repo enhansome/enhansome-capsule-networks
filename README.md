@@ -6,7 +6,7 @@ A curated list of awesome resources related to capsule networks maintained by [A
 
 ## Contributing
 
-Please [pull a request](https://github.com/aisummary/awesome-capsule-networks/pulls) ⭐ 975 | 🐛 7 | 📅 2020-02-24 if you are aware of additional resources.
+Please [pull a request](https://github.com/aisummary/awesome-capsule-networks/pulls) ⭐ 974 | 🐛 7 | 📅 2020-02-24 if you are aware of additional resources.
 
 Your feedback and contributions are always welcome!
 
@@ -130,7 +130,7 @@ Your feedback and contributions are always welcome!
 
 ### PyTorch
 
-* [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks) ⭐ 1,758 | 🐛 24 | 🌐 Python | 📅 2018-11-09
+* [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks) ⭐ 1,757 | 🐛 24 | 🌐 Python | 📅 2018-11-09
 * [higgsfield/Capsule-Network-Tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial) ⭐ 766 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2019-10-04
 * [danielhavir/capsule-network](https://github.com/danielhavir/capsule-network) ⭐ 170 | 🐛 1 | 🌐 Python | 📅 2018-05-06
 
@@ -179,4 +179,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
