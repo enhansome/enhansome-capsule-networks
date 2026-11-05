@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "ssrp",
                 "repo": "Multi-level-DCNet",
-                "stars": 34,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
@@ -181,7 +181,7 @@
                 "open_issues": 29,
                 "owner": "XifengGuo",
                 "repo": "CapsNet-Keras",
-                "stars": 2458,
+                "stars": 2457,
                 "topics": [
                   "capsnet",
                   "capsnet-keras",
@@ -311,7 +311,7 @@
                 "open_issues": 24,
                 "owner": "gram-ai",
                 "repo": "capsule-networks",
-                "stars": 1757,
+                "stars": 1756,
                 "topics": [
                   "capsule-networks",
                   "machine-learning",
@@ -364,7 +364,7 @@
                 "open_issues": 1,
                 "owner": "danielhavir",
                 "repo": "capsule-network",
-                "stars": 170,
+                "stars": 169,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:24:57.640Z"
@@ -627,7 +627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T01:21:37.617Z",
+    "last_updated": "2026-11-05T01:27:38.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to capsule networks",

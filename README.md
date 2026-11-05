@@ -55,7 +55,7 @@ Your feedback and contributions are always welcome!
 
 ### Other papers
 
-* [Multi-level Dense Capsule Networks](https://github.com/ssrp/Multi-level-DCNet) ⭐ 34 | 🐛 4 | 🌐 Python | 📅 2020-01-08 - S. S. R. Phaye, A. Sikka, A. Dhall and D. R. Bathula (2018)
+* [Multi-level Dense Capsule Networks](https://github.com/ssrp/Multi-level-DCNet) ⭐ 33 | 🐛 4 | 🌐 Python | 📅 2020-01-08 - S. S. R. Phaye, A. Sikka, A. Dhall and D. R. Bathula (2018)
 
 ### Under review
 
@@ -117,7 +117,7 @@ Your feedback and contributions are always welcome!
 
 ### Keras
 
-* [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras) ⭐ 2,458 | 🐛 29 | 🌐 Python | 📅 2020-05-19
+* [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras) ⭐ 2,457 | 🐛 29 | 🌐 Python | 📅 2020-05-19
 * [gusgad/capsule-GAN](https://github.com/gusgad/capsule-GAN) ⭐ 127 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-06-07
 
 ### Matlab
@@ -130,9 +130,9 @@ Your feedback and contributions are always welcome!
 
 ### PyTorch
 
-* [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks) ⭐ 1,757 | 🐛 24 | 🌐 Python | 📅 2018-11-09
+* [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks) ⭐ 1,756 | 🐛 24 | 🌐 Python | 📅 2018-11-09
 * [higgsfield/Capsule-Network-Tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial) ⭐ 766 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2019-10-04
-* [danielhavir/capsule-network](https://github.com/danielhavir/capsule-network) ⭐ 170 | 🐛 1 | 🌐 Python | 📅 2018-05-06
+* [danielhavir/capsule-network](https://github.com/danielhavir/capsule-network) ⭐ 169 | 🐛 1 | 🌐 Python | 📅 2018-05-06
 
 ### R
 
@@ -179,4 +179,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
