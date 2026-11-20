@@ -181,7 +181,7 @@
                 "open_issues": 29,
                 "owner": "XifengGuo",
                 "repo": "CapsNet-Keras",
-                "stars": 2457,
+                "stars": 2456,
                 "topics": [
                   "capsnet",
                   "capsnet-keras",
@@ -311,7 +311,7 @@
                 "open_issues": 24,
                 "owner": "gram-ai",
                 "repo": "capsule-networks",
-                "stars": 1755,
+                "stars": 1753,
                 "topics": [
                   "capsule-networks",
                   "machine-learning",
@@ -420,7 +420,7 @@
                 "open_issues": 29,
                 "owner": "naturomics",
                 "repo": "CapsNet-Tensorflow",
-                "stars": 3788,
+                "stars": 3787,
                 "topics": [
                   "capsnet",
                   "capsule",
@@ -627,7 +627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T02:34:03.777Z",
+    "last_updated": "2026-11-20T02:19:14.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to capsule networks",
